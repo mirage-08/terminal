@@ -1,0 +1,9 @@
+/mypasswords.py
+localsettings/
+idea/
+logs/
+venv/
+.idea/
+__pycache__
+env/
+.log
